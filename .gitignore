@@ -1,0 +1,13 @@
+# Dữ liệu khách hàng & file export (Tuyệt đối không commit lên GitHub)
+*.csv
+*.xlsx
+*.json
+
+# File hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Môi trường & Logs
+.env
+*.log
